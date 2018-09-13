@@ -11,4 +11,5 @@ main.o: main.cpp sum.h sum.cpp
 
 clean:
 	rm sum_test *.o
+	
 
